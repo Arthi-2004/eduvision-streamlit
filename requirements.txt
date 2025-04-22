@@ -1,0 +1,9 @@
+gtts
+pdfplumber
+pytesseract
+pillow
+python-pptx
+python-docx
+langdetect
+streamlit
+
